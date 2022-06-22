@@ -1,0 +1,64 @@
+body {
+  position: fixed;
+  background-color: #B8FFF9;
+}
+
+.icons{
+  position: relative;
+  left: 1100px;
+  padding-right: 5px;
+  height: 40px;
+  width: 40px;
+}
+
+table{
+  position: relative;
+  bottom: 60px;
+}
+
+.reg-form {
+  background-color: #B8FFF9;
+  margin: 70px;
+  width: 90%;
+  display: block;
+}
+
+.inp-typ {
+  background-color: #B8FFF9;
+  width: 90%;
+  margin: 15px;
+  border: none;
+  border-bottom: 1px dotted #006778;
+  color: #85F4FF;
+}
+
+form {
+  padding: 30px;
+}
+
+.checkboxx {
+  margin: 15px
+}
+
+.reg-btn {
+  background-color: #006778;
+  border: none;
+  border-radius: 8px;
+  color: #85F4FF;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 200px;
+  padding: 15px;
+}
+
+.reg-btn:hover {
+  background-color: #85F4FF;
+  color: #006778;
+}
+
+.sunimg {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  bottom: 100px;
+}
